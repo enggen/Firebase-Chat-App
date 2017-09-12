@@ -4,4 +4,6 @@ Chat App for iOS with Firebase backend, supports realtime messaging, image and p
 2. Firebase Backend
 3. MVC framework
 
+swift 4 update comming soon
+
 
